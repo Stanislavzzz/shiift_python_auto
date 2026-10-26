@@ -1,0 +1,16 @@
+shop:
+  name: ШИФТ Маркет
+  enable: true
+  discount: 0.1
+  categories:
+  - Книги
+  - Тетради
+  manager: null
+user:
+  name: Bob
+  is_active: true
+  price: 10000
+  prof:
+  - IT
+  - Sale
+  admin: true

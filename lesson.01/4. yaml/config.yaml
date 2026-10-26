@@ -1,0 +1,7 @@
+shop:
+  name: ШИФТ Маркет
+  enable: true
+  categories:
+    - Книги
+    - Тетради
+  manager: null

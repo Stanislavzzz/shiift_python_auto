@@ -1,0 +1,7 @@
+<catalog>
+    <product id="P101" category="Книги">
+        <name>Python Django</name>
+        <price>1700</price>
+        <count>7</count>
+    </product>
+</catalog>

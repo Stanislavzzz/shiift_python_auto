@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<catalog updated="2026-10-26">
+    <product id="P101" category="Книги">
+        <name>Python Django</name>
+        <price>1700</price>
+        <count>7</count>
+    </product>
+    <product id="P103" category="Книни Фантастика">
+        <name>С++</name>
+        <price>3700</price>
+    <count>3</count>
+    </product>
+</catalog>
